@@ -41,14 +41,14 @@ const  data = [
     },
     {
       id: 2,
-      url: "https://netflix-clone-599bb.web.app/",
+      url: "https://insta-clone-one-rho.vercel.app/",
       projectCategory:"react",
       projectImg:twitter,
       projectName:"Twitter Clone"
     },
     {
       id: 3,
-      url: "https://netflix-clone-599bb.web.app/",
+      url: "https://insta-clone-one-rho.vercel.app/",
       projectCategory:"react",
       projectImg:insta,
       projectName:"Instagram Clone"
