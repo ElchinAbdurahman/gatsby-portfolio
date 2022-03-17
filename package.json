@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "portfolio",
+  "author": "elchinabdurahman",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.9.2",
+    "gatsby-plugin-image": "^2.9.1",
+    "gatsby-plugin-sharp": "^4.9.1",
+    "gatsby-source-filesystem": "^4.9.1",
+    "gatsby-source-strapi": "^1.0.3",
+    "gatsby-transformer-sharp": "^4.9.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.3.1"
+  }
+}
